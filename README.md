@@ -18,7 +18,7 @@ pip install opencv-python
 
 Doing this should have opencv install in your current working environment.
 
-### Resources
+## Resources
 
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
